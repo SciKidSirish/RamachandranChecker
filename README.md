@@ -12,7 +12,9 @@ In 70, one should replace the text with the path to Model.h5.
 `class_names = open("<REPLACE WITH PATH TO labels.txt>", "r").readlines()`
 
 Likewise for 73. Then, you type in `phi_psi <REPLACE WITH NAME OF OBJECT OF INTEREST>`. This gives a list of numbers and three letter identifiers. Copy and paste this into the text at line 3, like so:
+
 `Input = """<COPY AND PASTE PYMOL OUTPUT HERE>"""`
+
 Then run the script to get results.
 
 NOTE: This model was made with teachable machine.
