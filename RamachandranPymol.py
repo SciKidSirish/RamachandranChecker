@@ -82,10 +82,10 @@ import numpy as np
 np.set_printoptions(suppress=True)
 
 # Load the model
-model = load_model("/Users/siri-nivimac/Downloads/converted_keras/keras_model.h5", compile=False)
+model = load_model("<REPLACE WITH PATH TO Model.h5>", compile=False)
 
 # Load the labels
-class_names = open("/Users/siri-nivimac/Downloads/converted_keras/labels.txt", "r").readlines()
+class_names = open("<REPLACE WITH PATH TO labels.txt>", "r").readlines()
 
 # Create the array of the right shape to feed into the keras model
 # The 'length' or number of images you can put into the array is
