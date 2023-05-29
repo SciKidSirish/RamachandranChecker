@@ -1,4 +1,4 @@
-# Data
+
 import pymol
 
 
