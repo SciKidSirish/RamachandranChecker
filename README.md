@@ -16,3 +16,5 @@ Likewise for 88. Then, you type in `run` followed by the pathname to Ramachandra
 `run <REPLACE WITH PATH TO RamachandranPymol.py>`
 
 Then you will get your results.
+
+NOTE: This model was made with teachable machine.
