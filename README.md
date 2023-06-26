@@ -1,5 +1,5 @@
 # RamachandranChecker
-RamachandranChecker is a pymol script which uses machine learning to analyze the ramachandran plot of any structure loaded into pymol
+RamachandranChecker is a pymol script that uses machine learning to analyze the Ramachandran plot of any structure loaded into pymol.
 
 
 
@@ -17,4 +17,4 @@ Likewise for 88. Then, you type in `run` followed by the pathname to Ramachandra
 
 Then you will get your results.
 
-NOTE: This model was made with teachable machine.
+NOTE: This model was made with Teachable Machine.
