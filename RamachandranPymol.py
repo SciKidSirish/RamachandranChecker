@@ -61,13 +61,12 @@ y = np.array(psi)
 plt.xlim(-180, 180)
 plt.ylim(-180, 180)
 
-plt.xlabel("Phi angle")
-plt.ylabel("Psi angle")
 
 plt.scatter(x, y, alpha=0.3)
 
 plt.savefig('plot.png', dpi=300, bbox_inches='tight')
 print("plot saved")
+
 plt.show()
 print("plot shown")
 
